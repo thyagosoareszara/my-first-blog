@@ -1,0 +1,10 @@
+total 0
+drwxr-xr-x   4 thyagosoares  staff   128  3 Jan 15:56 .
+drwxr-xr-x+ 45 thyagosoares  staff  1440  3 Jan 15:44 ..
+drwxr-xr-x   6 thyagosoares  staff   192  3 Jan 15:45 myvenv
+-rw-r--r--   1 thyagosoares  staff     0  3 Jan 15:56 requeriment.txt
+total 8
+drwxr-xr-x   4 thyagosoares  staff   128  3 Jan 15:56 .
+drwxr-xr-x+ 45 thyagosoares  staff  1440  3 Jan 15:44 ..
+drwxr-xr-x   6 thyagosoares  staff   192  3 Jan 15:45 myvenv
+-rw-r--r--   1 thyagosoares  staff   252  3 Jan 15:56 requeriment.txt
